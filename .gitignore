@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+evidence_store/
+examples/demo_report.md
+.DS_Store
