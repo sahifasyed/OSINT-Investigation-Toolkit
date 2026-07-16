@@ -1,4 +1,4 @@
-# OSINT Verification Toolkit
+# OSINT Investigation and Verification Toolkit
 
 Python tooling for image-based OSINT verification with forensic
 chain-of-custody logging. Built out of the methodology from my
